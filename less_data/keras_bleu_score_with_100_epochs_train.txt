@@ -1,0 +1,252 @@
+-
+Input: акшаны
+Reference: ақшаны
+Prediction: ақшан
+BLEU Score: 0.00
+-
+Input: керек
+Reference: керек
+Prediction: керек
+BLEU Score: 100.00
+-
+Input: болмак 
+Reference: болмақ
+Prediction: болып
+BLEU Score: 0.00
+-
+Input: жумган
+Reference: жұмған
+Prediction: жылдым
+BLEU Score: 0.00
+-
+Input: акшасы
+Reference: ақшасы
+Prediction: ақшалы
+BLEU Score: 0.00
+-
+Input: ултустилик
+Reference: ұлтүстілік
+Prediction: элтүрлікін
+BLEU Score: 0.00
+-
+Input: тургын
+Reference: тұрғын
+Prediction: тұрғын
+BLEU Score: 100.00
+-
+Input: мунда
+Reference: мұнда
+Prediction: мұнда
+BLEU Score: 100.00
+-
+Input: сизди
+Reference: сізді
+Prediction: сүзде
+BLEU Score: 0.00
+-
+Input: сон
+Reference: соң
+Prediction: осы
+BLEU Score: 0.00
+-
+Input: сиякты
+Reference: сияқты
+Prediction: сияқты
+BLEU Score: 100.00
+-
+Input: ойлап
+Reference: ойлап
+Prediction: оралы
+BLEU Score: 0.00
+-
+Input: созбен
+Reference: сөзбен
+Prediction: өөбін
+BLEU Score: 0.00
+-
+Input: жаксы
+Reference: жақсы
+Prediction: жақсы
+BLEU Score: 100.00
+-
+Input: байкадык
+Reference: байқадық
+Prediction: байқары
+BLEU Score: 0.00
+-
+Input: темир
+Reference: темір
+Prediction: теміл
+BLEU Score: 0.00
+-
+Input: багыттылган
+Reference: бағытталған
+Prediction: бағыттылға
+BLEU Score: 0.00
+-
+Input: аралыгында
+Reference: аралығында
+Prediction: аралыншың
+BLEU Score: 0.00
+-
+Input: буйрек
+Reference: бүйрек
+Prediction: бүріке
+BLEU Score: 0.00
+-
+Input: окилимен
+Reference: өкілімен
+Prediction: өкілімен
+BLEU Score: 100.00
+-
+Input: арналган
+Reference: арналған
+Prediction: арғанына
+BLEU Score: 0.00
+-
+Input: аныктасан
+Reference: анықтасаң
+Prediction: анықтағың
+BLEU Score: 0.00
+-
+Input: биреуде
+Reference: біреуде
+Prediction: біреуді
+BLEU Score: 0.00
+-
+Input: барлығы 
+Reference: барлығы
+Prediction: барлығы
+BLEU Score: 100.00
+-
+Input: жеты
+Reference: жеті
+Prediction: жеті
+BLEU Score: 100.00
+-
+Input: ма
+Reference: ме
+Prediction: ме
+BLEU Score: 100.00
+-
+Input: атакты
+Reference: атақты
+Prediction: атапып
+BLEU Score: 0.00
+-
+Input: киип
+Reference: киіп
+Prediction: кік
+BLEU Score: 0.00
+-
+Input: казыр
+Reference: қазір
+Prediction: қайда
+BLEU Score: 0.00
+-
+Input: кулкынын
+Reference: құлқының
+Prediction: құрылын
+BLEU Score: 0.00
+-
+Input: жаска
+Reference: жасқа
+Prediction: жаспы
+BLEU Score: 0.00
+-
+Input: жаксы
+Reference: жақсы
+Prediction: жақсы
+BLEU Score: 100.00
+-
+Input: жасалган
+Reference: жасалған
+Prediction: жасалған
+BLEU Score: 100.00
+-
+Input: балалы
+Reference: балалы
+Prediction: барлағы
+BLEU Score: 0.00
+-
+Input: дати
+Reference: дәті
+Prediction: мәні
+BLEU Score: 0.00
+-
+Input: кормеген
+Reference: көрмеген
+Prediction: көлеменен
+BLEU Score: 0.00
+-
+Input: колданушы
+Reference: қолданушы
+Prediction: қолдандың
+BLEU Score: 0.00
+-
+Input: агылшынша
+Reference: ағылшынша
+Prediction: ағылшында
+BLEU Score: 0.00
+-
+Input: ауыстырып
+Reference: ауыстырып
+Prediction: ашырықтың
+BLEU Score: 0.00
+-
+Input: ол
+Reference: ол
+Prediction: ол
+BLEU Score: 100.00
+-
+Input: иесине
+Reference: иесіне
+Prediction: ескенде
+BLEU Score: 0.00
+-
+Input: апаига
+Reference: апайға
+Prediction: азама
+BLEU Score: 0.00
+-
+Input: жасайды
+Reference: жасайды
+Prediction: жасайды
+BLEU Score: 100.00
+-
+Input: берик
+Reference: берік
+Prediction: берік
+BLEU Score: 100.00
+-
+Input: алады
+Reference: алады
+Prediction: алады
+BLEU Score: 100.00
+-
+Input: рахмет
+Reference: рахмет
+Prediction: раметт
+BLEU Score: 0.00
+-
+Input: уксас
+Reference: ұқсас
+Prediction: сурсы
+BLEU Score: 0.00
+-
+Input: ойлаганымдай
+Reference: ойлағанымдай
+Prediction: ойлағандай
+BLEU Score: 0.00
+-
+Input: шыгармайтындындары
+Reference: шығармайтынындары
+Prediction: шағырмайтынындары
+BLEU Score: 0.00
+-
+Input: олен
+Reference: өлең
+Prediction: өлең
+BLEU Score: 100.00
+
+Average BLEU Score: 32.00
